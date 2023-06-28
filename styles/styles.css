@@ -16,6 +16,7 @@ h1 {
 h2 {
   margin: 0;
   margin-bottom: 15px;
+  text-align: center;
 }
 
 main {
@@ -27,7 +28,7 @@ p {
 }
 
 section {
-  border: thick double #32a1ce;;
+  border: thick double #b071ce;;
   margin-bottom: 30px;
   width: 50%;
 }
@@ -39,7 +40,15 @@ button {
 
 #projeto1, #projeto2 {
   padding: 10px 20px;
-  line-height: auto
+  line-height: auto;
+}
+
+#projeto1 {
+  text-align: center;
+}
+
+.resultado {
+  padding-right: 250px;
 }
 
 #formulario {
